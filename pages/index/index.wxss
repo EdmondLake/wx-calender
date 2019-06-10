@@ -1,0 +1,11 @@
+.time-picker{
+  width: 90%;
+  height: 100rpx;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 30rpx;
+  margin-left: auto;
+  margin-right: auto;
+}

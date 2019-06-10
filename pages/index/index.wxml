@@ -1,0 +1,6 @@
+<view class='container'>
+  <view class="time-picker">
+    <navigator url="../calendar/calender" class='indate'>入住时间 ：{{checkInDate}}</navigator>
+    <navigator url="../calendar/calender" class='outdate'>离开时间：{{checkOutDate}}</navigator>
+  </view>
+</view>
